@@ -4,11 +4,11 @@ Bienvenido a mi perfil de GitHub. Soy un **Desarrollador Web Full Stack** con ex
 
 ## 🌱 Tecnologías y Herramientas que uso:
 - **Frontend**: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express (por aprender)
+- **Backend**: Node.js
 - **Base de Datos**: MongoDB
 - **Version Control**: Git, GitHub
-- **Plataformas**: Vercel, Netlify
-- **Herramientas de aprendizaje**: freeCodeCamp, SoloLearn, Codecademy
+- **Plataformas**: Vercel
+- **Herramientas de aprendizaje**: freeCodeCamp, SoloLearn, Udemy
 
 ## 🚀 Proyectos Recientes
 - **E-commerce de Joyería**: Desarrollo de una tienda online utilizando tecnologías full-stack, incluyendo integración con Firebase y gestión de inventarios.
