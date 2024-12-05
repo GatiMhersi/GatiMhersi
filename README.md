@@ -15,8 +15,7 @@ Bienvenido a mi perfil de GitHub. Soy un **Desarrollador Web Full Stack** con ex
 - **Landing Page para Telecomunicaciones**: Creación de una página web de múltiples secciones, con diseño responsive y adaptado a las necesidades de una empresa de telecomunicaciones.
   
 ## 🌍 Conéctate conmigo:
-- [LinkedIn](https://www.linkedin.com/in/matias/)
-- [Mi Portfolio](https://felice-joyas.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/ghersinichmatias/)
 
 ## 📫 Cómo contactarme:
 Si deseas discutir algún proyecto, colaboración o simplemente intercambiar ideas, ¡no dudes en enviarme un mensaje!
